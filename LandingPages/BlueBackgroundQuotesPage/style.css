@@ -1,0 +1,156 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: #65749F;
+    color: #A5B0CF;
+    
+}
+@font-face {
+    src: url('Fonts/Poppins-Light.otf');
+    font-family: pop;
+ }
+ *{
+     font-family: pop;
+     margin: 0;
+     padding: 0;
+ }
+
+nav{
+    display: flex;
+    align-items:center;
+    justify-content: space-between;
+    margin: 0;
+    padding-top: 25px 
+}
+.items-list{
+    display: flex;
+    align-items: center;
+    margin-right: auto;
+    list-style: none;
+    margin-left: 100px;
+}
+
+a{
+    text-decoration: none;
+    margin-right: 40px;
+    color: #A5B0CF;
+    font-size: 14px;
+    transition: .3s;
+}
+
+
+
+#last-child{
+    margin-left: 540px;
+}
+
+#button{
+    background-color: #FFE5B7;
+    border-radius: 20px;
+    color: black;
+    width: 180px;
+    height: 40px;
+    border-width: 0px;
+    transition: 0.4s;
+    font-family: pop;
+    margin-right: 40px;
+    
+    
+   
+}
+#button:hover{
+    background-color: white;
+    
+    cursor: pointer;
+    color: #171717;
+}
+
+.first-text{
+    width: 100%;
+    position: absolute;
+    top: 20%;
+    transform: translateY(-50%);
+    text-align: center;
+    font-size: 14px;
+    
+    
+
+}
+.second-text{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    gap: 500px;
+    position: absolute;
+
+    top:35%;
+    
+
+}
+.third-text{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    position: absolute;
+    gap: 500px;
+
+    top:60%;
+}
+.final-text{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    position: absolute;
+    top:95%;
+}
+.fourth-text{
+    width: 100%;
+    position: absolute;
+    bottom: 20%;
+    transform: translateY(-50%);
+    text-align: center;
+    font-size: 14px;
+   
+}
+.main-text{
+    width: 100%;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    text-align: center;
+    font-size: 55px;
+    font-weight: bold;
+   
+}
+#lastWords{
+    color: #FFE5B7;
+}
+
+    .hover-underline-animation {
+        display: inline-block;
+        position: relative;
+        color: white;
+      }
+      
+      .hover-underline-animation:after {
+        content: '';
+        position: absolute;
+        width: 50%;
+        transform: scaleX(0);
+        height: 2px;
+        bottom: 0;
+        left: 0;
+        background-color: white;
+        transform-origin: bottom right;
+        transition: transform 0.25s ease-out;
+      }
+      
+      .hover-underline-animation:hover:after {
+        transform: scaleX(1);
+        transform-origin: bottom left;
+      }
+      #last-child{
+        margin-left: 650px;
+    }
