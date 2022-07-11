@@ -10,6 +10,7 @@ A complete total of 40 Minimalist Landing Pages created from inspirational
 
 ## Resources
 - The Design Inspiration was created with AdobeXD and the project sample is placed in the Repository.
+- Download XD file here :point_right: [Landing Pages](https://drive.google.com/file/d/1CFo9DsJAegVUsCk02Gsit-v-DcrLuaaI/view?usp=sharing)
 - This project is developed using HTML and CSS only :hand_over_mouth: and purposely made for beginners like me learning  :man_technologist: Frontend Development:woman_technologist:
 
 ## UX Demo :black_nib:
@@ -24,7 +25,7 @@ A complete total of 40 Minimalist Landing Pages created from inspirational
 - Responsive Background Image
 
 ## Kindly Note :exclamation:
-This project is yet not responsive to other mobile devices and it is just a demonstration of the Ux designs brought forward.
+ :no_mobile_phones: This project is yet not responsive to other mobile devices and it is just a demonstration of the Ux designs brought forward.
 Responsiveness would be worked upon coming future :pray:
 
 
