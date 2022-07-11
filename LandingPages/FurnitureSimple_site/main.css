@@ -1,0 +1,118 @@
+
+ @font-face {
+    src: url('Fonts/Poppins-Light.otf');
+    font-family: pop;
+ }
+ *{
+     font-family: pop;
+     margin: 0;
+     padding: 0;
+ }
+
+body{
+    background-image: url("/Images/furniture.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+nav{
+    display: flex;
+    align-items:center;
+    justify-content: space-between;
+    margin: 0;
+    padding-top: 25px 
+}
+.items-list{
+    display: flex;
+    align-items: center;
+    margin-right: auto;
+    list-style: none;
+    margin-left: 160px;
+}
+
+a{
+    text-decoration: none;
+    margin-right: 40px;
+    color: white;
+    font-size: 14px;
+    transition: .3s;
+}
+
+
+
+#last-child{
+    margin-left: 550px;
+}
+.text-main{
+    width: 100%;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    text-align: center;
+    font-size: 55px;
+    font-family: pop;
+    
+}
+#button{
+    background-color: #2D2D2D;
+    border-radius: 20px;
+    color: white;
+    width: 140px;
+    height: 40px;
+    border-width: 0px;
+    transition: 0.4s;
+    font-family: pop;
+    margin-right: 60px;
+    
+   
+}
+#button:hover{
+    background-color: white;
+    
+    cursor: pointer;
+    color: #171717;
+}
+.fa-brands{
+    color: white;
+    font-size: 25px;
+    cursor: pointer;
+    transition: 0.4s;
+    
+}
+.fa-brands:hover{
+    
+    color: #0B6FE4;
+
+}
+.iconPack{
+    margin-top: 530px;
+    margin-left: 1172px;
+}
+.twitterLogo{
+    position:absolute;
+    margin-left: 30px;
+}
+.hover-underline-animation {
+    display: inline-block;
+    position: relative;
+    color: black;
+  }
+  
+  .hover-underline-animation:after {
+    content: '';
+    position: absolute;
+    width: 50%;
+    transform: scaleX(0);
+    height: 2px;
+    bottom: 0;
+    left: 0;
+    background-color: black;
+    transform-origin: bottom right;
+    transition: transform 0.25s ease-out;
+  }
+  
+  .hover-underline-animation:hover:after {
+    transform: scaleX(1);
+    transform-origin: bottom left;
+  }
