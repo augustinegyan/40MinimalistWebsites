@@ -23,6 +23,10 @@ A complete total of 40 Minimalist Landing Pages created from inspirational
 
 - Fullscreen mode
 - Responsive Background Image
+  
+## Project Sample :clapper:
+
+https://user-images.githubusercontent.com/43218009/178634697-f462fdca-e4e6-486a-8449-c58a57958ce9.mp4  
 
 ## Kindly Note :exclamation:
  :no_mobile_phones: This project is yet not responsive to other mobile devices and it is just a demonstration of the Ux designs brought forward.
