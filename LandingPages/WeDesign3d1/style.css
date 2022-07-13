@@ -70,6 +70,7 @@ a{
     border-style: none;
     color: white;
     font-family: pop;
+    border-radius: 3px;
 }
 body{
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
