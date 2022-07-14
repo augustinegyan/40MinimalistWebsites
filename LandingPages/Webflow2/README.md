@@ -1,13 +1,13 @@
 <img src="https://img.shields.io/badge/Landing%20Pages-Beginner%20Friendly-blue">
 
-# Webflow 1
+# Webflow 2
 Below is the preview of the project .
 
 
 ## Preview :framed_picture:
 
 
-![webflow](https://user-images.githubusercontent.com/43218009/178891240-a7aa2fd6-9315-4abf-8cf0-f1fe32175da3.PNG)
+![webflow2](https://user-images.githubusercontent.com/43218009/178895300-f2ab30ea-b7f2-4e4c-9eac-b3d4ba0886fa.PNG)
 
 ## Fonts and Color used ::art:
 - Fonts [Poppins-Light]
