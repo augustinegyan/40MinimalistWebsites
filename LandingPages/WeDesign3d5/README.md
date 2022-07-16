@@ -20,7 +20,7 @@ Below is the preview of the project .
 | ----------------- | ------------------------------------------------------------------ |
 |  Color 1| ![#3FA7EC](https://via.placeholder.com/10/3FA7EC/3FA7EC.png) `#C697B2` |
 |  Color 2| ![#AEB4C9](https://via.placeholder.com/10/AEB4C9/808080.png) `#808080` |
-|  Color 2| ![#FFFFFF](https://via.placeholder.com/10/FFFFFF/FFFFFF) `#FFFFFF` |
+|  Color 3| ![#FFFFFF](https://via.placeholder.com/10/FFFFFF/FFFFFF) `#FFFFFF` |
 
 
 
