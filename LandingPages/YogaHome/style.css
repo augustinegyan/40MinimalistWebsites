@@ -64,11 +64,13 @@ body{
     color: #2B2B2B;
 }
 #mid-text{
+    font-size: 40px;
     margin-left: 100px;
     margin-top: 20px;
     font-family: mont;
     font-style: bold;
     color: #FF135D;
+    font-weight: bolder;
 }
 #main-text{
     margin-top: 40px;
