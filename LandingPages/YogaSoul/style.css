@@ -1,0 +1,235 @@
+@font-face {
+    src: url('Fonts/Poppins-Light.otf');
+    font-family: pop;
+ }
+ @font-face {
+     src: url('Fonts/Montserrat-VariableFont_wght.ttf');
+     font-family: mont;
+ }
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    display: flex;
+    align-items:center;
+    justify-content: space-between;
+    margin: 0;
+    padding-top: 20px;
+    font-style: pop;
+}
+.items-list{
+    display: flex;
+    align-items: center;
+    margin-right: auto;
+    list-style: none;
+    margin-left: 100px;
+
+}
+a{
+    text-decoration: none;
+    margin-right: 80px;
+    font-family: pop;
+    color: #616161;
+    font-size: 13px;
+}
+.text-files{
+    display: inline-block;
+    position: absolute;   
+}
+.img{
+    width: 65%;
+    object-fit: cover;
+    object-position: -10px 0px ;
+    margin-left: 450px;
+    margin-top: -50px;
+}
+body{
+    background-color:white;
+    overflow: hidden;
+       
+}
+.vertical-line{
+    border-right: 2.5px solid;
+    background-color: #FF135D;
+}
+#yoga{
+    margin-top: 120px;
+    margin-left: 100px;
+    font-weight: bolder;
+    font-family: mont;
+    font-size: 50px;
+    color: #2B2B2B;
+}
+#mid-text{
+    margin-left: 100px;
+    margin-top: 20px;
+    font-family: mont;
+    font-style: bold;
+    color: #FF135D;
+}
+#main-text{
+    margin-top: 40px;
+    margin-left: 100px;
+    width: 475px;
+    font-family: mont;
+    color: #7F7326;
+}
+.but{
+    margin-left: 100px;
+    margin-top: 40px;
+    border: none;
+    background-color: #FF135D;
+    color: white;
+    border-radius: 100px;
+    padding: 10px 40px 10px 40px;
+    transition: .3s;
+}
+.but:hover{
+    background-color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #FF135D;
+    color:#FF135D;
+}
+#button{
+    background-color: white;
+    border-style: solid;
+    border-width: .21px;
+    border-radius: 100px;
+    border-color: #FF135D;
+    padding: 6px 35px 6px 35px;       
+    margin-right:80px;
+    font-family: pop;
+    color:#FF135D;
+    font-size: 13px;
+    transition: .3s;
+    z-index: 1;
+}
+#button:hover{
+    background-color: #FF135D;
+    border: none;
+    color: white;
+}
+.hover-underline-animation {
+    display: inline-block;
+    position: relative;
+    color: white;
+  }
+  
+  .hover-underline-animation:after {
+    content: '';
+    position: absolute;
+    width: 50%;
+    transform: scaleX(0);
+    height: 2px;
+    bottom: 0;
+    left: 0;
+    background-color:#2B2B2B;
+    transform-origin: bottom right;
+    transition: transform 0.25s ease-out;
+  }
+  
+  .hover-underline-animation:hover:after {
+    transform: scaleX(1);
+    transform-origin: bottom left;
+  }
+  #last-child{
+    margin-left: 650px;
+}
+.topBrown{
+    width: 120px;
+    object-fit: contain;
+    position:absolute;
+    top: -5%;
+    right:-60px;
+  
+}
+.botPink{
+    width: 150px;
+    object-fit: contain;
+    position:absolute;
+     top: 80%;
+     margin-left: -900px;
+}
+.brown1{
+    width: 200px;
+    object-fit: contain;
+    position:absolute;
+    top: 80%;
+    margin-left: -1400px;
+
+}
+.brown2{
+    width: 50px;
+    object-fit: contain;
+    position:absolute;
+    top: 5%;
+    margin-left: -550px;
+
+}
+.pink1{
+    width: 10px;
+    object-fit: contain;
+    position:absolute;
+    top: 3%;
+    margin-left: -350px;
+
+}
+.pink2{
+    width: 60px;
+    object-fit: contain;
+    position:absolute;
+    top: 55%;
+    margin-left: -670px;
+
+}
+.pink3{
+    width: 35px;
+    object-fit: contain;
+    position:absolute;
+    top: 85%;
+    margin-left: -220px;
+
+}
+.brown3{
+    width: 15px;
+    object-fit: contain;
+    position:absolute;
+    top: 48%;
+    margin-left: -220px;
+
+}
+.pink4{
+    width: 30px;
+    object-fit: contain;
+    position:absolute;
+    top: 80%;
+    margin-left: -520px;
+
+}
+.pink5{
+    width: 15px;
+    object-fit: contain;
+    position:absolute;
+    top: 20%;
+    margin-left: -850px;
+
+}
+.pink6{
+    width: 15px;
+    object-fit: contain;
+    position:absolute;
+    top: 15%;
+    margin-left: -1000px;
+
+}
+.pink7{
+    width: 40px;
+    object-fit: contain;
+    position:absolute;
+    top: 10%;
+    margin-left: -1210px;
+
+}
+
