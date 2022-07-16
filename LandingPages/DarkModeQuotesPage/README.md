@@ -17,9 +17,9 @@ Below is the preview of the project .
 
 | Colors             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-|  Color 1| ![#414141](https://via.placeholder.com/10/414141?text=+) #414141 |
-|  Color 2| ![#171717](https://via.placeholder.com/10/171717?text=+) #171717 |
-|  Color 2| ![#FFFFFF](https://via.placeholder.com/10/FFFFFF?text=+) #FFFFFF |
+|  Color 1| ![#414141](https://via.placeholder.com/10/414141/414141.png) `#414141` |
+|  Color 2| ![#171717](https://via.placeholder.com/10/171717/171717.png) `#171717` |
+|  Color 2| ![#FFFFFF](https://via.placeholder.com/10/FFFFFF/FFFFFF.png) `#FFFFFF` |
 
 
 

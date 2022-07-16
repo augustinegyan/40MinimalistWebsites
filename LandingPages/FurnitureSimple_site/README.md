@@ -17,10 +17,10 @@ Below is the preview of the project .
 
 | Colors             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-|  Color 1| ![#2D2D2D](https://via.placeholder.com/10/2D2D2D?text=+) #2D2D2D |
-|  Color 2| ![#2D2D2D](https://via.placeholder.com/10/2D2D2D?text=+) #2D2D2D |
-| Color 3 | ![#0B6FE4](https://via.placeholder.com/10/0B6FE4?text=+) #0B6FE4 |
-| Color 4 | ![#FFFFFF](https://via.placeholder.com/10/FFFFFF?text=+) #FFFFFF |
+|  Color 1| ![#2D2D2D](https://via.placeholder.com/10/2D2D2D/2D2D2D.png) `#2D2D2D` |
+|  Color 2| ![#2D2D2D](https://via.placeholder.com/10/2D2D2D/2D2D2D.png) `#2D2D2D` |
+| Color 3 | ![#0B6FE4](https://via.placeholder.com/10/0B6FE4/0B6FE4.png) `#0B6FE4` |
+| Color 4 | ![#FFFFFF](https://via.placeholder.com/10/FFFFFF/FFFFFF.png) `#FFFFFF` |
 
 
 ## Support
