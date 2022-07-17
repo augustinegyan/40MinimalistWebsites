@@ -50,6 +50,7 @@ a{
 body{
     background-color:white;
     overflow: hidden;
+   
        
 }
 .vertical-line{
@@ -146,31 +147,32 @@ body{
     width: 120px;
     object-fit: contain;
     position:absolute;
-    top: -5%;
-    right:-60px;
+    top: 0%;
+    right:-20px;
   
 }
 .botPink{
     width: 150px;
     object-fit: contain;
+    bottom: -5%;
     position:absolute;
-     top: 80%;
-     margin-left: -900px;
+    margin-left: 600px;
 }
 .brown1{
     width: 200px;
     object-fit: contain;
     position:absolute;
-    top: 80%;
-    margin-left: -1400px;
+    top: 85%;
+    margin-left: -40px;
 
 }
 .brown2{
     width: 50px;
     object-fit: contain;
     position:absolute;
-    top: 5%;
-    margin-left: -550px;
+    top: 10%;
+    margin-left:120px;
+    
 
 }
 .pink1{
@@ -178,7 +180,9 @@ body{
     object-fit: contain;
     position:absolute;
     top: 3%;
-    margin-left: -350px;
+    margin-left: 1050px;
+    
+    
 
 }
 .pink2{
@@ -186,7 +190,8 @@ body{
     object-fit: contain;
     position:absolute;
     top: 55%;
-    margin-left: -670px;
+    margin-left: 600px;
+    
 
 }
 .pink3{
@@ -194,24 +199,25 @@ body{
     object-fit: contain;
     position:absolute;
     top: 85%;
-    margin-left: -220px;
-    z-index: 1;
-
+    margin-left: 1200px;
 }
 .brown3{
     width: 15px;
     object-fit: contain;
     position:absolute;
-    top: 48%;
-    margin-left: -220px;
+    top: 55%;
+    margin-left: 1250px;
+
+    
 
 }
 .pink4{
     width: 30px;
     object-fit: contain;
     position:absolute;
-    top: 80%;
-    margin-left: -520px;
+    top: 85%;
+    margin-left: 850px;
+   
 
 }
 .pink5{
@@ -219,7 +225,8 @@ body{
     object-fit: contain;
     position:absolute;
     top: 20%;
-    margin-left: -850px;
+    margin-left: 550px;
+    
 
 }
 .pink6{
@@ -227,7 +234,8 @@ body{
     object-fit: contain;
     position:absolute;
     top: 15%;
-    margin-left: -1000px;
+    margin-left:400px;
+    
 
 }
 .pink7{
@@ -235,7 +243,8 @@ body{
     object-fit: contain;
     position:absolute;
     top: 10%;
-    margin-left: -1210px;
+    margin-left: 1000px;
+    
 
 }
 
