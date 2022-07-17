@@ -6,8 +6,7 @@ Below is the preview of the project .
 
 ## Preview :framed_picture:
 
-
-picture here
+![yogahome](https://user-images.githubusercontent.com/43218009/179404907-e7ab9e3e-64ee-4cfa-b4eb-f5d804f23a8b.PNG)
 
 ## Fonts and Color used ::art:
 - Fonts [Poppins-Light,Monteserrat]
