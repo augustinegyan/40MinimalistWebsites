@@ -38,13 +38,14 @@ a{
     position: absolute;   
 }
 .img{
-    width: 70%;
+    width: 73%;
     object-fit: cover;
-    object-position: -10px 0px ;
-    margin-left: 450px;
+    object-position: -10px -20px ;
+    margin-left: 560px;
     margin-top: -50px;
-    z-index: -1;
-    position: absolute;
+    
+      
+    
 }
 body{
     background-color:white;
@@ -194,6 +195,7 @@ body{
     position:absolute;
     top: 85%;
     margin-left: -220px;
+    z-index: 1;
 
 }
 .brown3{
