@@ -18,9 +18,11 @@ Below is the preview of the project .
 
 | Colors             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-|  Color 1| ![#FF135D](https://via.placeholder.com/10/FF135D/FF135D.png) `#FF135D` |
-|  Color 2| ![#2B2B2B](https://via.placeholder.com/10/2B2B2B/2B2B2B.png) `#2B2B2B` |
+|  Color 1| ![#F59677](https://via.placeholder.com/10/F59677/F59677.png) `#F59677` |
+|  Color 2| ![#5653FD](https://via.placeholder.com/10/5653FD/5653FD.png) `#F59677` |
 |  Color 3| ![#FFFFFF](https://via.placeholder.com/10/FFFFFF/FFFFFF.png) `#FFFFFF` |
+
+
 
 
 
