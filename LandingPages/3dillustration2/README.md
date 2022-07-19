@@ -6,8 +6,7 @@ Below is the preview of the project .
 
 ## Preview :framed_picture:
 
-
-![calc](https://user-images.githubusercontent.com/43218009/179418765-feca86f2-78fc-4fb9-a357-2406aa8d6103.PNG)
+Picture Here
 
 ## Fonts and Color used ::art:
 - Fonts [Poppins-Light,Monteserrat]
