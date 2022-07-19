@@ -1,6 +1,6 @@
 <img src="https://img.shields.io/badge/Landing%20Pages-Beginner%20Friendly-blue">
 
-# Calculate Site 1
+# 3d Illustration 1
 Below is the preview of the project .
 
 
