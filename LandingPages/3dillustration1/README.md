@@ -7,7 +7,7 @@ Below is the preview of the project .
 ## Preview :framed_picture:
 
 
-Picture here
+Picture here  
 
 ## Fonts and Color used ::art:
 - Fonts [Poppins-Light,Monteserrat]
