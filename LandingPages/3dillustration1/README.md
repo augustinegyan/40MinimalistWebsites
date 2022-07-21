@@ -20,7 +20,6 @@ Picture here
 | ----------------- | ------------------------------------------------------------------ |
 |  Color 1| ![#F59677](https://via.placeholder.com/10/F59677/F59677.png) `#F59677` |
 |  Color 2| ![#5653FD](https://via.placeholder.com/10/5653FD/5653FD.png) `#F59677` |
-|  Color 3| ![#FFFFFF](https://via.placeholder.com/10/FFFFFF/FFFFFF.png) `#FFFFFF` |
 
 
 
