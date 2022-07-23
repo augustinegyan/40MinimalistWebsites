@@ -37,6 +37,6 @@ Responsiveness would be worked upon coming future :pray:
 
 For support or any kind of help , kindly contact me on LinkedIn [Augustine Gyan](https://www.linkedin.com/in/augustinegyan/) 
 
-##### Folow me on my socials
+##### Folow me on my socials.
 <a href="https://www.twitter.com/AugustineGyan7" target="_blank"><img src="https://img.shields.io/badge/Twitter-%230077B5.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
 <a href="https://www.linkedin.com/in/augustinegyan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
