@@ -1,6 +1,6 @@
 <img src="https://img.shields.io/badge/Landing%20Pages-Beginner%20Friendly-blue">
 
-# CLOUD STORAGE SITE
+# CLOUD STORAGE LANDING PAGE
 Below is the preview of the project .
 
 
