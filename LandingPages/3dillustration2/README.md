@@ -1,12 +1,13 @@
 <img src="https://img.shields.io/badge/Landing%20Pages-Beginner%20Friendly-blue">
 
-# Calculate Site 1
+# 3d Illustration 2
 Below is the preview of the project .
 
 
 ## Preview :framed_picture:
 
-Picture Here
+
+![3dillus2](https://user-images.githubusercontent.com/43218009/180869778-9b838af4-9c92-4b2a-aca9-7b388d55b456.PNG)
 
 ## Fonts and Color used ::art:
 - Fonts [Poppins-Light,Monteserrat]
@@ -17,10 +18,10 @@ Picture Here
 
 | Colors             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-|  Color 1| ![#F59677](https://via.placeholder.com/10/F59677/F59677.png) `#F59677` |
-|  Color 2| ![#5653FD](https://via.placeholder.com/10/5653FD/5653FD.png) `#F59677` |
-|  Color 3| ![#FFFFFF](https://via.placeholder.com/10/FFFFFF/FFFFFF.png) `#FFFFFF` |
-
+|  Color 1| ![#FF135D](https://via.placeholder.com/10/FF135D/FF135D.png) `#FF135D` |
+|  Color 2| ![#FFFFFF](https://via.placeholder.com/10/FFFFFF/FFFFFF.png) `#FFFFFF` |
+|  Color 3| ![#5653FD](https://via.placeholder.com/10/5653FD/5653FD.png) `#5653FD` |
+|  Color 3| ![#EDECFE](https://via.placeholder.com/10/EDECFE/EDECFE.png) `#EDECFE` |
 
 
 
