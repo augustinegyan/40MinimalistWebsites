@@ -19,7 +19,7 @@ Below is the preview of the project .
 
 | Colors             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-|  Color 1| ![#F2C94C](https://via.placeholder.com/10/F2C94C/F2C94C.png) `#F2C94C` |
+|  Color 1| ![#F5C01E](https://via.placeholder.com/10/F5C01E/F5C01E.png) `#F5C01E` |
 |  Color 2| ![#FFFFFF](https://via.placeholder.com/10/FFFFFF/FFFFFF.png) `#FFFFFF` |
 |  Color 3| ![#F2994A](https://via.placeholder.com/10/F2994A/F2994A.png) `#F2994A` |
 |  Color 4| ![#101010](https://via.placeholder.com/10/101010/101010.png) `#101010` |
