@@ -1,0 +1,94 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: #1A1A1A;
+    overflow: hidden;
+   
+    
+}
+@font-face {
+    src: url('Fonts/Poppins-Light.otf');
+    font-family: pop;
+ }
+ @font-face {
+   
+     src: url('Fonts/Montserrat-VariableFont_wght.ttf');
+     font-family: mont;
+ }
+ *{
+     font-family: pop;
+     margin: 0;
+     padding: 0;
+ }
+ li{
+     list-style: none;
+ }
+ a{
+     text-decoration: none;
+     list-style: none;
+     color: #5653FD;
+ }
+ nav{
+     display: flex;
+     align-items: center;
+     margin-right: 50px;
+     margin-left: 50px;
+     margin-top: 20px;
+     
+
+ }
+ 
+
+ .left-side{
+     margin-left: 50px;
+     position: absolute;
+     top: 25%;
+ }
+ .img-pos{
+    object-fit: contain;
+    width: 37%;
+    background-attachment: fixed;
+    margin-left: 800px;
+    object-position: -30px 0px;
+    margin-top:-60px    
+ }
+ .nav-img{
+     width: 70%;
+ }
+ #tp{
+   color: #F2994A ;
+ }
+ #main-text{
+     font-family: mont;
+     font-size: 60px;
+     width: 600px;
+     font-weight: bolder;
+     color: white;
+
+ }
+ #bot-text{
+     color: #A7A7A7;
+     font-size: 13px;
+     width: 350px;
+     margin-top: 20px;
+ }
+ #bot-button1{
+    padding: 10px 25px 10px 25px;
+    background-color: #F5C01E;
+    border: none;
+    border-radius: 3px;
+    color: #101010;
+    margin-top: 40px;
+    margin-right: 30px;
+    transition: .3s;
+    
+ }
+ #bot-button1:hover{
+     background-color: white;
+     color: #F5C01E;
+ }
+
+
+
