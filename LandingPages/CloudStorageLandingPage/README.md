@@ -1,6 +1,6 @@
 <img src="https://img.shields.io/badge/Landing%20Pages-Beginner%20Friendly-blue">
 
-# BITCOIN LANDING PAGE
+# CLOUD STORAGE SITE
 Below is the preview of the project .
 
 
