@@ -117,20 +117,7 @@ body{
      border: 1px solid #FF135D;
      color: #FF135D;
  }
- #bot-button2{
-    padding: 10px 25px 10px 25px;
-    background-color: #EDECFE;
-    color: #5653FD;
-    border: none;
-    border-radius: 3px;
-    margin-top: 40px;
-    margin-left: 20px;
-    transition: .3s;
- }
- #bot-button2:hover{
-     background-color: #5653FD;
-     color:#EDECFE;
- }
+
  .arrow-right{
      background-attachment: fixed;
      position: absolute;
