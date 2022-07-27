@@ -38,10 +38,21 @@ body{
      margin-top: 20px;
      
 
+    
+ }
+ .items-list{
+    display: flex;
+    align-items: center;
+    list-style: none;
+   
+}
+
+ #last-child{
+   margin-left: 950px;
  }
  #top-button1{
      font-family: pop;
-     margin-left: 950px;
+     margin-left: 950x;
      padding: 5px 25px 5px 25px;
      background-color: #EDECFE;
      color: #5653FD;
