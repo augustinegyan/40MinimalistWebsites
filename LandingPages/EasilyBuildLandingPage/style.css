@@ -129,20 +129,4 @@ body{
      color: #FF135D;
  }
 
- .arrow-right{
-     background-attachment: fixed;
-     position: absolute;
-     top: 45%;
-     left: 90%;
-     object-fit: contain;
- }
- .arrow-left{
-     transform:rotateY(180deg);
-    background-attachment: fixed;
-    position: absolute;
-    top: 45%;
-    left: 60%;
-    object-fit: contain;
-}
-
 
