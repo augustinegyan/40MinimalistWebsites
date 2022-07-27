@@ -21,7 +21,7 @@ A complete total of 40 Minimalist Landing Pages created from inspirational
 
 ## Features
 
-- Fullscreen mode
+- Fullscreen mode.
 - Responsive Background Image
   
 ## Project Sample :clapper:
