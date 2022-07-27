@@ -1,0 +1,150 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: white;
+    overflow: hidden;
+   
+    
+}
+@font-face {
+    src: url('Fonts/Poppins-Light.otf');
+    font-family: pop;
+ }
+ @font-face {
+   
+     src: url('Fonts/Montserrat-VariableFont_wght.ttf');
+     font-family: mont;
+ }
+ *{
+     font-family: pop;
+     margin: 0;
+     padding: 0;
+ }
+ li{
+     list-style: none;
+ }
+ a{
+     text-decoration: none;
+     list-style: none;
+     color: #5653FD;
+ }
+ nav{
+     display: flex;
+     align-items: center;
+     margin-right: 50px;
+     margin-left: 50px;
+     margin-top: 20px;
+     
+
+ }
+ #top-button1{
+     font-family: pop;
+     margin-left: 950px;
+     padding: 5px 25px 5px 25px;
+     background-color: #EDECFE;
+     color: #5653FD;
+     border: none;
+     border-radius: 3px;
+     transition: .3s;
+ }
+ #top-button1:hover{
+     background-color: #5653FD;
+     color: #EDECFE;
+ }
+ #top-button2{
+    padding: 5px 25px 5px 25px;
+     font-family: pop;
+     margin-left: 20px;
+     background-color: #FF135D;
+     border: none;
+     border-radius: 3px;
+     color: white;
+     transition: .3s;
+ }
+ #top-button2:hover{
+     border-style: solid;
+     border-width: 1px;
+     background-color: white;
+     border-color: #FF135D;
+     color: #FF135D;
+ }
+ .left-side{
+     margin-left: 50px;
+     position: absolute;
+     top: 25%;
+ }
+ .img-pos{
+    object-fit: contain;
+    width: 75%;
+    background-attachment: fixed;
+    margin-left: 600px;
+    object-position: -30px -10px;
+    margin-top:0px    
+ }
+ #tp{
+     color: #7875FD;
+     font-weight: normal;
+     font-size: 40px;
+ }
+ #main-text{
+     font-family: mont;
+     font-size: 50px;
+     width: 400px;
+     font-weight: bolder;
+     color: #5653FD;
+
+ }
+ #bot-text{
+     color: #8C8AFE;
+     font-size: 13px;
+     width: 350px;
+     margin-top: 20px;
+ }
+ #bot-button1{
+    padding: 10px 25px 10px 25px;
+    background-color: #FF135D;
+    border: none;
+    border-radius: 3px;
+    color: white;
+    margin-top: 40px;
+    transition: .3s;
+    
+ }
+ #bot-button1:hover{
+     background-color: white;
+     border: 1px solid #FF135D;
+     color: #FF135D;
+ }
+ #bot-button2{
+    padding: 10px 25px 10px 25px;
+    background-color: #EDECFE;
+    color: #5653FD;
+    border: none;
+    border-radius: 3px;
+    margin-top: 40px;
+    margin-left: 20px;
+    transition: .3s;
+ }
+ #bot-button2:hover{
+     background-color: #5653FD;
+     color:#EDECFE;
+ }
+ .arrow-right{
+     background-attachment: fixed;
+     position: absolute;
+     top: 45%;
+     left: 90%;
+     object-fit: contain;
+ }
+ .arrow-left{
+     transform:rotateY(180deg);
+    background-attachment: fixed;
+    position: absolute;
+    top: 45%;
+    left: 60%;
+    object-fit: contain;
+}
+
+
