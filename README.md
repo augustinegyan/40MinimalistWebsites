@@ -1,7 +1,7 @@
 
 <img src="https://img.shields.io/badge/Landing%20Pages-Beginner%20Friendly-blue">
 
-# Project Title
+# Project Title.
 
 A complete total of 40 Minimalist Landing Pages created from inspirational
 (UI/UX) designs by [Tikeshwar Dewangan](https://dribbble.com/potter007) and other personal projects.
@@ -22,7 +22,7 @@ A complete total of 40 Minimalist Landing Pages created from inspirational
 ## Features
 
 - Fullscreen mode.
-- Responsive Background Image
+- Responsive Background Image.
   
 ## Project Sample :clapper:
 
@@ -35,7 +35,7 @@ Responsiveness would be worked upon coming future :pray:
 
 ## Support
 
-For support or any kind of help , kindly contact me on LinkedIn [Augustine Gyan](https://www.linkedin.com/in/augustinegyan/). 
+For support or any kind of help,kindly contact me on LinkedIn [Augustine Gyan](https://www.linkedin.com/in/augustinegyan/). 
 
 ##### Folow me on my socials.
 <a href="https://www.twitter.com/AugustineGyan7" target="_blank"><img src="https://img.shields.io/badge/Twitter-%230077B5.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
