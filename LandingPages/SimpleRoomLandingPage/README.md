@@ -18,8 +18,8 @@ Below is the preview of the project .
 
 | Colors             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-|  Color 1| ![#FFFFFF](https://via.placeholder.com/10/FFFFFF?text=+) #FFFFFF |
-|  Color 2| ![#FCAF26](https://via.placeholder.com/10/FCAF26?text=+) #FCAF26 |
+|  Color 1| ![#FFFFFF](https://via.placeholder.com/10/FFFFFF/FFFFFF.png) `#FFFFFF` |
+|  Color 2| ![#FCAF26](https://via.placeholder.com/10/FCAF26/FCAF26.png) `#FCAF26` |
 
 
 
