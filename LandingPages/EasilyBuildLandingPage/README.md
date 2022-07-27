@@ -7,7 +7,7 @@ Below is the preview of the project .
 ## Preview :framed_picture:
 
 
-![3dillus1](https://user-images.githubusercontent.com/43218009/180868183-7838a2c5-7715-4a10-98c1-4c48a7b593f7.PNG)
+![easily](https://user-images.githubusercontent.com/43218009/181131791-ec0d76b5-39d9-4921-90d9-168ab1cdaf42.PNG)
 
 ## Fonts and Color used ::art:
 - Fonts [Poppins-Light,Monteserrat]
