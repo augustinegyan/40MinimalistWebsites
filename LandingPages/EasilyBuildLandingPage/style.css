@@ -50,36 +50,21 @@ body{
  #last-child{
    margin-left: 950px;
  }
- #top-button1{
-     font-family: pop;
-     margin-left: 950x;
-     padding: 5px 25px 5px 25px;
-     background-color: #EDECFE;
-     color: #5653FD;
-     border: none;
-     border-radius: 3px;
-     transition: .3s;
- }
- #top-button1:hover{
-     background-color: #5653FD;
-     color: #EDECFE;
- }
  #top-button2{
     padding: 5px 25px 5px 25px;
      font-family: pop;
-     margin-left: 20px;
-     background-color: #FF135D;
-     border: none;
+     margin-left: 50px;
+     background-color: white;
+     border: 1px solid #5653FD;
      border-radius: 3px;
-     color: white;
+     color: #5653FD;
      transition: .3s;
  }
  #top-button2:hover{
      border-style: solid;
      border-width: 1px;
-     background-color: white;
-     border-color: #FF135D;
-     color: #FF135D;
+     background-color: #5653FD;
+     color: white;
  }
  .left-side{
      margin-left: 50px;
@@ -95,14 +80,14 @@ body{
     margin-top:0px    
  }
  #tp{
-     color: #7875FD;
-     font-weight: normal;
-     font-size: 40px;
+     color: #2B2B2B;
+     font-weight: bolder;
+     font-size: 80px;
  }
  #main-text{
      font-family: mont;
      font-size: 50px;
-     width: 400px;
+     width: 550px;
      font-weight: bolder;
      color: #5653FD;
 
@@ -115,7 +100,7 @@ body{
  }
  #bot-button1{
     padding: 10px 25px 10px 25px;
-    background-color: #FF135D;
+    background-color: #5653FD;
     border: none;
     border-radius: 3px;
     color: white;
@@ -125,8 +110,11 @@ body{
  }
  #bot-button1:hover{
      background-color: white;
-     border: 1px solid #FF135D;
-     color: #FF135D;
+     border: 1px solid #5653FD;
+     color: #5653FD;
+ }
+ .topmost{
+     color: #AAAAAA;
  }
 
 
