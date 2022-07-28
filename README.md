@@ -33,7 +33,7 @@ https://user-images.githubusercontent.com/43218009/178634697-f462fdca-e4e6-486a-
 Responsiveness would be worked upon coming future :pray:
 
 
-## Support
+## Support.
 
 For support or any kind of help,kindly contact me on LinkedIn [Augustine Gyan](https://www.linkedin.com/in/augustinegyan/). 
 
