@@ -1,0 +1,103 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: #1A1A1A;
+    overflow: hidden;
+   
+    
+}
+@font-face {
+    src: url('Fonts/Poppins-Light.otf');
+    font-family: pop;
+ }
+ @font-face {
+   
+     src: url('Fonts/Montserrat-VariableFont_wght.ttf');
+     font-family: mont;
+ }
+ *{
+     font-family: pop;
+     margin: 0;
+     padding: 0;
+ }
+ li{
+     list-style: none;
+ }
+ a{
+     text-decoration: none;
+     list-style: none;
+     color: #5653FD;
+ }
+ nav{
+     display: flex;
+     align-items: center;
+     margin-right: 50px;
+     margin-left: 50px;
+     margin-top: 20px;
+     
+
+ }
+ #top-button1{
+     font-family: pop;
+     margin-left: auto;
+     padding: 5px 25px 5px 25px;
+     background-color:#1A1A1A;
+     color: #F2994A;
+     border: solid 1px #F2994A;
+     border-radius: 3px;
+     transition: .3s;
+ }
+
+
+ .left-side{
+     margin-left: 50px;
+     position: absolute;
+     top: 25%;
+ }
+ .img-pos{
+    object-fit: contain;
+    width: 36%;
+    background-attachment: fixed;
+    margin-left: 900px;
+    object-position: -30px 0px;
+    margin-top:-60px    
+ }
+ .nav-img{
+     width: 70%;
+ }
+ #tp{
+   color: #F2994A ;
+ }
+ #main-text{
+     font-family: mont;
+     font-size: 80px;
+     width: 900px;
+     font-weight: bolder;
+     color: white;
+
+ }
+ #bot-text{
+     color: #A7A7A7;
+     font-size: 16px;
+     width: 350px;
+     margin-top: 20px;
+ }
+ #bot-button1{
+    padding: 10px 25px 10px 25px;
+    background-color: #F2C94C;
+    border: none;
+    border-radius: 3px;
+    color: #101010;
+    margin-top: 40px;
+    transition: .3s;
+    
+ }
+ #bot-button1:hover{
+     background-color: white;
+     color: #F2994A;
+ }
+
+
+
