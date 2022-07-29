@@ -23,7 +23,7 @@ PICTURE HERE.
 |  Color 2| ![#FFFFFF](https://via.placeholder.com/10/FFFFFF/FFFFFF.png) `#FFFFFF` |
 |  Color 3| ![#F2994A](https://via.placeholder.com/10/F2994A/F2994A.png) `#F2994A` |
 |  Color 4| ![#101010](https://via.placeholder.com/10/101010/101010.png) `#101010` |
-|  Color 5| ![#1A1A1A](https://via.placeholder.com/10/1A1A1A/1A1A1A.png) `#1A1A1A` |
+
 
 
 
