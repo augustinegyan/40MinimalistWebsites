@@ -8,7 +8,7 @@ A complete total of 40 Minimalist Landing Pages created from inspirational
 
 
 
-## Resources
+## Resources.
 - The Design Inspiration was created with AdobeXD and the project sample is placed in the Repository.
 - Download XD file here :point_right: [Landing Pages](https://drive.google.com/file/d/1CFo9DsJAegVUsCk02Gsit-v-DcrLuaaI/view?usp=sharing)
 - This project is developed using HTML and CSS only :hand_over_mouth: and purposely made for beginners like me learning  :man_technologist: Frontend Development:woman_technologist:
@@ -19,7 +19,7 @@ A complete total of 40 Minimalist Landing Pages created from inspirational
 ![xd projext](https://user-images.githubusercontent.com/43218009/178163753-03d8fa8c-411b-4197-a48f-26c6b57867b0.PNG)
 
 
-## Features
+## Features.
 
 - Fullscreen mode.
 - Responsive Background Image.
