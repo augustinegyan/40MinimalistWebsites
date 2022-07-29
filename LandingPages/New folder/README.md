@@ -7,7 +7,7 @@ Below is the preview of the project .
 ## Preview :framed_picture:
 
 
-![bitcoin](https://user-images.githubusercontent.com/43218009/180878443-3ac32fa0-cbf3-49d7-9bda-7ad87b31208a.PNG)
+PICTURE HERE
 
 
 ## Fonts and Color used ::art:
