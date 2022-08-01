@@ -3,7 +3,7 @@
     margin: 0;
 }
 body{
-    background-color: #1A1A1A;
+    background-color: white;
     overflow: hidden;
    
     
@@ -30,6 +30,11 @@ body{
      list-style: none;
      color: #5653FD;
  }
+.list-items{
+    display: flex;
+    align-items: center;
+}
+ 
  nav{
      display: flex;
      align-items: center;
@@ -39,18 +44,24 @@ body{
      
 
  }
- #top-button1{
+ 
+ #top-button2{
+    padding: 5px 25px 5px 25px;
      font-family: pop;
-     margin-left: auto;
-     padding: 5px 25px 5px 25px;
-     background-color:#1A1A1A;
-     color: #F2994A;
-     border: solid 1px #F2994A;
+     margin-left: 20px;
+     background-color: #FF135D;
+     border: none;
      border-radius: 3px;
+     color: white;
      transition: .3s;
  }
-
-
+ #top-button2:hover{
+     border-style: solid;
+     border-width: 1px;
+     background-color: white;
+     border-color: #FF135D;
+     color: #FF135D;
+ }
  .left-side{
      margin-left: 50px;
      position: absolute;
@@ -58,46 +69,53 @@ body{
  }
  .img-pos{
     object-fit: contain;
-    width: 36%;
+    width: 50%;
     background-attachment: fixed;
-    margin-left: 900px;
-    object-position: -30px 0px;
-    margin-top:-60px    
- }
- .nav-img{
-     width: 70%;
+    margin-left: 650px;
+    object-position: -30px -10px;
+    margin-top:0px    
  }
  #tp{
-   color: #F2994A ;
+     color: #7875FD;
+     font-weight: normal;
+     font-size: 40px;
  }
  #main-text{
      font-family: mont;
-     font-size: 80px;
-     width: 900px;
+     font-size: 50px;
+     width: 400px;
      font-weight: bolder;
-     color: white;
+     color: #5653FD;
 
  }
  #bot-text{
-     color: #A7A7A7;
-     font-size: 16px;
+     color: #8C8AFE;
+     font-size: 13px;
      width: 350px;
      margin-top: 20px;
  }
  #bot-button1{
     padding: 10px 25px 10px 25px;
-    background-color: #F2C94C;
+    background-color: #FF135D;
     border: none;
     border-radius: 3px;
-    color: #101010;
+    color: white;
     margin-top: 40px;
     transition: .3s;
     
  }
  #bot-button1:hover{
      background-color: white;
-     color: #F2994A;
+     border: 1px solid #FF135D;
+     color: #FF135D;
  }
-
+ .arrow-left{
+     transform:rotateY(180deg);
+    background-attachment: fixed;
+    position: absolute;
+    top: 45%;
+    left: 60%;
+    object-fit: contain;
+}
 
 

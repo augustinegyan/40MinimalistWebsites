@@ -7,7 +7,7 @@ Below is the preview of the project .
 ## Preview :framed_picture:
 
 
-![3dillus1](https://user-images.githubusercontent.com/43218009/180868183-7838a2c5-7715-4a10-98c1-4c48a7b593f7.PNG)
+Picture here  
 
 ## Fonts and Color used ::art:
 - Fonts [Poppins-Light,Monteserrat]
@@ -18,10 +18,10 @@ Below is the preview of the project .
 
 | Colors             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-|  Color 1| ![#FF135D](https://via.placeholder.com/10/FF135D/FF135D.png) `#FF135D` |
-|  Color 2| ![#FFFFFF](https://via.placeholder.com/10/FFFFFF/FFFFFF.png) `#FFFFFF` |
-|  Color 3| ![#5653FD](https://via.placeholder.com/10/5653FD/5653FD.png) `#5653FD` |
-|  Color 3| ![#EDECFE](https://via.placeholder.com/10/EDECFE/EDECFE.png) `#EDECFE` |
+|  Color 1| ![#F59677](https://via.placeholder.com/10/F59677/F59677.png) `#F59677` |
+|  Color 2| ![#5653FD](https://via.placeholder.com/10/5653FD/5653FD.png) `#F59677` |
+|  Color 3| ![#FFFFFF](https://via.placeholder.com/10/FFFFFF/FFFFFF.png) `#FFFFFF` |
+
 
 
 
