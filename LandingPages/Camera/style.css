@@ -22,13 +22,16 @@ body{
      margin: 0;
      padding: 0;
  }
+ .lastChild{
+     margin-left: 1000px;
+ }
  li{
      list-style: none;
  }
  a{
      text-decoration: none;
      list-style: none;
-     color: #5653FD;
+     color: #35AB99;
  }
 .list-items{
     display: flex;
@@ -49,18 +52,16 @@ body{
     padding: 5px 25px 5px 25px;
      font-family: pop;
      margin-left: 20px;
-     background-color: #FF135D;
-     border: none;
+     background-color: white;
+     border: 1px solid #35AB99;
+     color: #35AB99;
      border-radius: 3px;
-     color: white;
+    
      transition: .3s;
  }
  #top-button2:hover{
-     border-style: solid;
-     border-width: 1px;
-     background-color: white;
-     border-color: #FF135D;
-     color: #FF135D;
+     background-color: #35AB99; 
+     color: white;
  }
  .left-side{
      margin-left: 50px;
@@ -76,27 +77,30 @@ body{
     margin-top:0px    
  }
  #tp{
-     color: #7875FD;
-     font-weight: normal;
-     font-size: 40px;
+     color: #35AB99;
+     font-weight: bolder;
+     font-size: 50px;
  }
  #main-text{
      font-family: mont;
      font-size: 50px;
-     width: 400px;
+     width: 500px;
      font-weight: bolder;
-     color: #5653FD;
+     color: #2B2B2B;
 
  }
+ #justTry{
+     color: #6A6A6A;
+ }
  #bot-text{
-     color: #8C8AFE;
+     color: #6A6A6A;
      font-size: 13px;
      width: 350px;
      margin-top: 20px;
  }
  #bot-button1{
     padding: 10px 25px 10px 25px;
-    background-color: #FF135D;
+    background-color: #35AB99;
     border: none;
     border-radius: 3px;
     color: white;
@@ -106,8 +110,8 @@ body{
  }
  #bot-button1:hover{
      background-color: white;
-     border: 1px solid #FF135D;
-     color: #FF135D;
+     border: 1px solid #35AB99;
+     color: #35AB99;
  }
  .arrow-left{
      transform:rotateY(180deg);
@@ -117,5 +121,12 @@ body{
     left: 60%;
     object-fit: contain;
 }
-
+.img-pos1{
+    width: 50px;
+    object-fit: contain;
+    position:absolute;
+    top: 10%;
+    margin-left:120px;
+   
+}
 
